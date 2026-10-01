@@ -1,0 +1,33 @@
+# Axiom Web Builder
+
+> Axiom Web Builder designs and builds premium, custom websites and web apps for businesses worldwide — fast, secure, SEO-ready, and beautifully designed. Founded by Hunain, a full-stack web developer based in Pakistan working with clients globally.
+
+Axiom Web Builder is a solo studio specializing in high-end websites and web applications: marketing sites, e-commerce, SaaS dashboards, portfolios, and interactive 3D experiences. Every build ships fast, mobile-perfect, accessible, secure (hardened headers, CSP) and search-optimized. Stack: React, Vite, Tailwind CSS, Three.js, GSAP and Framer Motion, deployed on Vercel. Contact: axiomwebbuilder@gmail.com.
+
+## Pages
+
+- [Home](https://axiomwebdev.dpdns.org/): Overview of Axiom Web Builder and featured work.
+- [Work & Case Studies](https://axiomwebdev.dpdns.org/work): Selected projects with full case studies.
+- [Services](https://axiomwebdev.dpdns.org/services): Website design, web app development, e-commerce and 3D/WebGL experiences.
+- [About](https://axiomwebdev.dpdns.org/about): About Hunain, the founder and full-stack developer.
+- [Contact](https://axiomwebdev.dpdns.org/contact): Request a quote or hire Axiom Web Builder.
+
+## Case studies
+
+- [BiteSpeed](https://axiomwebdev.dpdns.org/work/bitespeed): Full-stack cloud-kitchen platform — live ordering, cart, reservations and a password-gated kitchen dashboard (React, Express, MongoDB).
+- [Nova Commerce](https://axiomwebdev.dpdns.org/work/nova-commerce): Editorial fashion e-commerce with a WebGL fabric viewer and a working cart (React, React Three Fiber).
+- [Atlas Analytics](https://axiomwebdev.dpdns.org/work/atlas-analytics): SaaS analytics dashboard with hand-built SVG charts and a cohort retention heatmap.
+- [Kairos Studio](https://axiomwebdev.dpdns.org/work/kairos-agency): Cinematic creative-studio site with a Three.js particle hero and GSAP-pinned scroll.
+- [Lumen](https://axiomwebdev.dpdns.org/work/lumen-fintech): Neobank landing page with an interactive product demo and a two-tap waitlist.
+- [Orbit Studio](https://axiomwebdev.dpdns.org/work/orbit-portfolio): High-polish design-studio portfolio with magnetic cursor and smooth scroll.
+
+## Services offered
+
+- [Custom website design & development](https://axiomwebdev.dpdns.org/services): React / Vite / Tailwind marketing sites and brand sites.
+- [Web applications & SaaS dashboards](https://axiomwebdev.dpdns.org/services): Full-stack web apps, dashboards and e-commerce storefronts.
+- [3D / WebGL experiences](https://axiomwebdev.dpdns.org/services): Premium interactive experiences with Three.js and React Three Fiber.
+- [Performance, SEO & security](https://axiomwebdev.dpdns.org/services): Fast, accessible, hardened and search-optimized builds.
+
+## Contact
+
+- [Contact & quotes](https://axiomwebdev.dpdns.org/contact): Email axiomwebbuilder@gmail.com or use the contact form to hire Axiom Web Builder.
